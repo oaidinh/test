@@ -1,0 +1,1 @@
+export default logger = name => message => console.log(`[${name}]::: ${message}`)
